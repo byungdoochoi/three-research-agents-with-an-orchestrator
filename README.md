@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ### Configuration
 
 ```bash
-cp .env.example .env
+cp env.example .env
 # Edit .env and fill in your credentials
 ```
 
@@ -147,7 +147,7 @@ print(answer)
 three-research-agents/
 ├── three_research_agents.ipynb   # Main notebook — all code and explanations
 ├── requirements.txt
-├── .env.example
+├── env.example
 ├── Multi-Agent Orchestration Patterns.pdf
 └── README.md
 ```
